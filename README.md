@@ -29,7 +29,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🎓 **BS Computer Science** Student at **University of Swat**
 - 💼 **Web Developer** at **Falcon Computers**
